@@ -1,5 +1,7 @@
 # Odigo
 
+You can see the site by clicking on the link https://igorgap.github.io/Odigo/
+
 Site about Japan. To launch the site, you need to download my repository and open the HTML file in your browser
 
 </p>
